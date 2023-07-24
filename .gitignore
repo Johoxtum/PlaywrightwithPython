@@ -1,0 +1,30 @@
+# Archivos y carpetas generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+node_modules/
+
+# Datos sensibles
+secrets.py
+config.json
+
+# Resultados de pruebas
+results/
+
+# Configuraciones locales
+.env
+.vscode/
+
+# Archivos temporales y de respaldo
+*.tmp
+*~
+
+# Archivos de registro y depuración
+*.log
+*.debug
+
+# Archivos de desarrollo de IDE (Ejemplo para Visual Studio Code)
+.vs/
+*.code-workspace
